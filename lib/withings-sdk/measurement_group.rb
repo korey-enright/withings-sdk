@@ -11,6 +11,8 @@ module WithingsSDK
       5  => WithingsSDK::Measure::FatFreeMass,
       6  => WithingsSDK::Measure::FatRatio,
       8  => WithingsSDK::Measure::FatMassWeight,
+      9  => WithingsSDK::Measure::DiastolicBloodPressure,
+      10 => WithingsSDK::Measure::SystolicBloodPressure,
       11 => WithingsSDK::Measure::Pulse
     }
 

@@ -40,5 +40,8 @@ module WithingsSDK
     FatFreeMass   = Class.new(self)
     FatMassWeight = Class.new(self)
     FatRatio      = Class.new(self)
+
+    DiastolicBloodPressure = Class.new(self)
+    SystolicBloodPressure  = Class.new(self)
   end
 end
